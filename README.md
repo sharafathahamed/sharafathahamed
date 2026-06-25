@@ -62,7 +62,6 @@ print(me.motto())
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **Frameworks & Libraries**
 
@@ -97,7 +96,7 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/sharafathahamed">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sharafathahamed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sharafathahamed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/sharafathahamed">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharafathahamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
@@ -125,7 +124,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharafathahamed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sharafathahamed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -155,7 +154,6 @@ print(me.motto())
 
 <br/>
 
-> ![C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 > ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 - Built a **Bluetooth-controlled car** using Arduino, sensors, and microcontrollers as part of a collaborative embedded systems project.
@@ -173,7 +171,7 @@ print(me.motto())
 |:--------|:------|:-----------|
 | [**QuickFix – Repair Shop App**](https://github.com/sharafathahamed) | Python · Frappe · MariaDB · Redis · GitHub Actions | 4 custom DocTypes, RQ background jobs (short/default/long queues), `@frappe.whitelist` REST APIs, role-based permissions with `permission_query_conditions`, CI with MariaDB + Redis service containers, Semgrep + pip-audit security scanning |
 | [**Visual Cryptography Enhancement Framework**](https://github.com/sharafathahamed) | Python · Image Processing | Size-invariant visual cryptography using gray-level transformation and multi-pixel enhancement; improved secret-image reconstruction quality vs. baseline; applied steganography techniques |
-| [**Smart Accident Detection & Alert System**](https://github.com/sharafathahamed) | IoT · Embedded C · Arduino · GSM · GPS | Accelerometer + vibration sensors detect crashes; GSM module auto-SMS emergency contacts with real-time GPS coordinates; threshold-based crash detection on NodeMCU for continuous monitoring |
+| [**Smart Accident Detection & Alert System**](https://github.com/sharafathahamed) | IoT · Arduino · GSM · GPS | Accelerometer + vibration sensors detect crashes; GSM module auto-SMS emergency contacts with real-time GPS coordinates; threshold-based crash detection on NodeMCU for continuous monitoring |
 | [**Intelligent Traffic Light Management**](https://github.com/sharafathahamed) | Python · ML · Gradio · Google Colab | ML model trained on real-time vehicle density data to dynamically adjust signal timing; reduced congestion vs. static timer logic; interactive Gradio inference UI deployed on Colab |
 
 </div>
