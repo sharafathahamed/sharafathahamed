@@ -92,8 +92,6 @@ print(me.motto())
 
 ---
 
----
-
 # 📊 GitHub Stats
 
 <div align="center">
@@ -132,8 +130,6 @@ print(me.motto())
 
 ---
 
----
-
 ## 🔥 Streak Stats
 
 <p align="center">
@@ -146,14 +142,6 @@ print(me.motto())
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharafathahamed&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-## 🏆 Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharafathahamed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" />
 </p>
 
 ---
