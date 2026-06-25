@@ -92,15 +92,45 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharafathahamed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharafathahamed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharafathahamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=html,css,jupyter%20notebook"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharafathahamed&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
+
+<br>
+
+## 💻 Core Languages
+
+<div align="center">
+
+| Language | Proficiency |
+|:---------|:------------|
+| 🐍 **Python** | ████████████████████████ **45%** |
+| ☕ **Java** | ████████████████████ **38%** |
+| 🟨 **JavaScript** | █████ **10%** |
+| 🔷 **TypeScript** | ███ **7%** |
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-45%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-38%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-10%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-7%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</div>
+
+---
 
 ---
 
